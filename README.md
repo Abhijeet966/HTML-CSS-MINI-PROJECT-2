@@ -4,7 +4,7 @@
  This Web page is all about Bill Gates in which i used 2 pages for creating it 
  - main Html_page(for structring).
  - style(for styling the page).
- - Apart from this i use media queries for responsive view.
+ - Apart from this i use media queries for responsive view over different devices.
  
 
 Platform Use 

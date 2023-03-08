@@ -19,7 +19,7 @@
       width: 90%;
       margin: 20px auto;
       display: grid;
-      grid-template-columns: 300px 700px;
+      grid-template-columns: 300px 1fr;
     }
     
     /* lEFT SECTION */
